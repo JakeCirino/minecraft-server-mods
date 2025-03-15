@@ -1,0 +1,4 @@
+#Thu Feb 06 17:58:07 CST 2025
+LPV_FOG_SAMPLES=6
+VL_SAMPLES=7
+shadowDistance=192.0

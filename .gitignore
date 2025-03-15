@@ -1,0 +1,16 @@
+.fabric
+config
+data
+Distant_Horizons_server_data
+downloads
+libraries
+logs
+saves
+schematics
+versions
+xaero
+command_history.txt
+options.txt
+realms_persistence.json
+*.dat
+*.dat_old
